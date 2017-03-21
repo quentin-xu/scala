@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 import scala.io.Source
 import scala.io.BufferedSource

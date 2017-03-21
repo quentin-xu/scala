@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 import java.io.Console
 

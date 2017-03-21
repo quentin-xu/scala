@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 object ch17 {
     case class Pair[T, S](private val t:T, private val s:S){

@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 import scala.collection.immutable._
 import scala.math.Numeric._

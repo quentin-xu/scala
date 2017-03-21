@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 import scala.util.Random
 import scala.math._

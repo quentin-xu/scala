@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 /*99 99.99*/    
 object common {
   def getname() = {

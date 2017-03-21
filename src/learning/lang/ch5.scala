@@ -1,4 +1,4 @@
-package learning
+package learning.lang
 
 import scala.beans.BeanProperty
 import scala.util.Random
